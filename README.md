@@ -1,4 +1,6 @@
-# USSD Framework
+# USSD Framework (deprecated)
+
+__NOTE__: This project has been deprecated in favor of [Smsgh.UssdFramework](https://github.com/smsgh/Smsgh.UssdFramework), which is a better alternative.
 
 A .NET framework to ease building USSD clients on the [SMSGH](http://www.smsgh.com) [USSD platform](http://developers.smsgh.com/documentations/ussd).
 
